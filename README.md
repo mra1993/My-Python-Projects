@@ -19,3 +19,8 @@ Following data to be retrieved:
 14. Find all the transactions that involve "Cash" as the payment method. How many transactions are there, and what is the total amount of cash involved
 15. Calculate the average transaction amount for "Purchase" transactions. Compare it to the average transaction amount for "Sale" transactions.
 16. Generate a summary of the dataset by grouping transactions based on the "Category" column (e.g., Expense, Revenue, Asset, Liability). Calculate the total debit and credit amounts for each category.
+
+#Financial Sentiment Analysis
+Analysis of sentiment towards various financial news.
+[all-data.csv](https://github.com/user-attachments/files/18525808/all-data.csv)
+Python script updated to reflect major changes from available scripts.
